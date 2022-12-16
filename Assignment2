@@ -1,0 +1,2 @@
+string="alphabtes"
+print(string.isalpha())
